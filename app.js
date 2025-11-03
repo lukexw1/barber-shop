@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   /* ====== Hero slider ====== */
   // Укажите сюда свои изображения (пути) — относительные или абсолютные
   const slides = [
-    'work1.jpeg',
+    'work1.webp',
   ];
 
   const heroBg = document.getElementById('heroBg');
